@@ -2,6 +2,9 @@
 📊 Overview
 This project is a comprehensive HR Analytics Dashboard built using Power BI and Excel to help visualize, monitor, and analyze employee attrition trends and key HR metrics. It empowers HR professionals to make informed decisions by identifying patterns that contribute to workforce turnover.
 
+Dataset Used
+- <a href="https://github.com/arihantbakliwal19/HR-Analytics-Dashboard/blob/main/README.md"Dataset</a>
+
 🔍 Key Highlights
 
 Total Employees: 1470
